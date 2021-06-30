@@ -873,4 +873,9 @@
     <!-- FOD on doze -->
     <string name="fod_on_doze_title">FOD on doze</string>
     <string name="fod_on_doze_summary">Wählen Sie ob FOD während der Umgebungsanzeige/AOD angezeigt werden soll. Dadurch wird nur das Symbol ausgeblendet und die Funktionalität nicht deaktiviert.</string>
+
+    <string name="slider_styles_title">Stil des Helligkeitsreglers</string>
+    <string name="slider_rui">RUI</string>
+    <string name="aosp_string">AOSP</string>
+    <string name="oos_string">OxygenOS</string>
 </resources>
